@@ -1,0 +1,16 @@
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.exe
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.deps.json
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.json
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.runtimeconfig.dev.json
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.dll
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\ref\Exercicio_2.dll
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\bin\Debug\net5.0\Exercicio_2.pdb
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csprojAssemblyReference.cache
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfoInputs.cache
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.AssemblyInfo.cs
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.csproj.CoreCompileInputs.cache
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.dll
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\ref\Exercicio_2.dll
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.pdb
+C:\Leandro\Exercicios_GFT1902\Exercicio_2\obj\Debug\net5.0\Exercicio_2.genruntimeconfig.cache
